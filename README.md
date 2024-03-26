@@ -2,8 +2,6 @@
 
 This is my personal solution to the [myteam website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/myteam-multipage-website-mxlEauvW). 
 
-## Overview
-
 ### The challenge
 
 The users should be able to:
